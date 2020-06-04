@@ -7,6 +7,6 @@ A Boilerplate project for Domain Driven Design architecture.
 
 <br />
 
-<img src="https://resocoder.com/wp-content/uploads/2020/03/DDD-Flutter-Diagram-v3.svg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+<center><img src="https://resocoder.com/wp-content/uploads/2020/03/DDD-Flutter-Diagram-v3.svg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/></center>
 
 <br />
